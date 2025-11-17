@@ -1,6 +1,4 @@
-# 100 C++ DSA Projects for Resume
-
-This collection contains 100 Data Structures and Algorithms implementations in C++.
+# C++ DSA Projects 
 
 ## Categories:
 
@@ -53,7 +51,3 @@ This collection contains 100 Data Structures and Algorithms implementations in C
 g++ -std=c++17 <filename>.cpp -o output
 ./output
 ```
-
-## Author:
-M. Srinivas Prasad
-100 DSA Projects Collection
