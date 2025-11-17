@@ -41,10 +41,10 @@
 - Search in Rotated Array, Peak Element
 - 2D Matrix Search, Kth Largest Element
 
-### Miscellaneous (91-100)
+### Miscellaneous (91-99)
 - N-Queens, Sudoku Solver, Rat in Maze
 - Trie, LRU Cache, Segment Tree, Fenwick Tree
-- Union Find, Manacher's Algorithm, KMP Algorithm
+- Union Find, Manacher's Algorithm
 
 ## Compilation:
 ```bash
